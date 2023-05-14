@@ -1,4 +1,3 @@
-# SPS-2593-High-Quality-Facial-Recognition-System
 ### High Quality Facial Recognition System
 * In this project we learn how to perform facial recognition with the help of Python and Deep Learning (using OpenCV). 
 * Facial recognition is the process of identifying or verifying the identity of a person using their face.
